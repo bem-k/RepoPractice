@@ -1,0 +1,7 @@
+git clone ---> clones the project on local machine ....only once to fetch the project
+
+after making changes to the project
+git add  <<file name>>  or to add all changes git add .
+git commit -m "my message"
+git pull  ---if there are any merge conflicts resolve the conflicts and do a git a commit
+git push
